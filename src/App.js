@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import AdviceCard from './components/AdviceCard/AdviceCard';
 
