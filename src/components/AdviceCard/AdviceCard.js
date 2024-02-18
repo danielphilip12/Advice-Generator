@@ -18,7 +18,7 @@ const AdviceCard = () => {
   };
   return (
     <div className="advice-card">
-      <p>advice #{advice.id}</p>
+      <p className="advice-title">advice #{advice.id}</p>
       <p className="advice">"{advice.advice}"</p>
 
       <img className="divider" onClick={newAdvice} src="../../images/pattern-divider-desktop.svg" alt="divider" />
