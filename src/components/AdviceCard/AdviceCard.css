@@ -25,6 +25,7 @@ body {
 
 .dice:hover {
     background-color: hsl(193, 38%, 86%);
+    cursor: pointer;
 }
 
 .divider {
